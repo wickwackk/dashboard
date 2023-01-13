@@ -1,0 +1,5 @@
+.sidemenu {
+  width: 20%;
+  background-color: blanchedalmond;
+  min-height: calc(100vh - 120px);
+}

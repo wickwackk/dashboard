@@ -1,0 +1,5 @@
+.home {
+  background-color: aqua;
+  min-height: calc(100vh - 120px);
+  width: 80%;
+}
